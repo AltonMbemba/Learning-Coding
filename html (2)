@@ -1,0 +1,89 @@
+<html>
+    <title>MusicDomeSeries</title>
+    <body>
+        <!--This is the @head it will encompass logo, an d our navigation bar-->
+        <head>
+            <div>
+             <table style="width: 100%;">
+                <tr>
+                  <td>
+                    <a href="#">
+                        <img src="../HTML3/IMG/photo_2023-02-05_13-23-44.jpg" width="100px">  
+                     </a>   
+                       
+                    </td>
+                    <td align="right">
+                        <nav style="margin-right: 50px; margin-top: 16px; margin-bottom: 16px; margin-left: 50px;">
+                            <a href="#">Home</a> 
+                            <a href="About_us.html" style="margin: 16px;">About Us</a>
+                            <a href="Contact_us.html">Contact Us</a>
+                        </nav>
+                    </td>
+                </tr>
+             </table>
+
+            </div>
+        </head>
+       
+       <!--This is our main it will encompass all our content for the landing page for our site-->
+        <main>
+            <table style="width: 100%; height: 300px;">
+                <tr>
+                    <td colspan="2">
+                        <img src="../HTML3/IMG/photo_2023-02-05_13-23-44.jpg"
+                             width="100%"
+                             height="600px"
+                             alt=""
+                             style="object-fit: cover;"
+                             ></td>
+                             </tr>
+                             <tr>
+                                <td style="padding-left: 20vh; padding-top: 50px;">
+                                    <h1>M.D.S</h1>
+                                    <P>A music channel created to share a variety of music genres DEEPHOUSE especially.
+                                        <br>
+                                        This simply means there will be an alteration on the number of episodes on every season.
+                                        <br>
+                                        You are all welcome to join this channel.</P>
+                                </td>
+                                <td align="right" style="padding-right: 20vh; padding-bottom: 30px;">
+                                    <img
+                                     src="../HTML3/IMG/PicsArt_11-19-08.04.29.jpg" 
+                                     alt=""
+                                     width="300px"
+                                     height="300px"
+                                     style="border-radius: 50%; object-fit: cover; border: 5px solid rgb(204, 130, 184);">
+
+                                     
+                                    
+                                    </td>
+                             </tr>
+                            <table>
+            
+        </main>
+        <!--This is our footer it will  encompass all the quick links on our website-->
+        <footer>
+            <table style="width: 100%; height: 100px;;" > 
+                <tr>
+                    <td style="padding-left: 20vh;">5608 Itumeleng street <br> Kimberley <br> Vergenoeg <br> 8345
+                    </td>
+                    <td colspan="2"><iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d874.8730465101268!2d24.7282315!3d-28.7048335!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1e9b1ab3d7d7c02d%3A0xa412abf710f2d58b!2s5608%20Itumeleng%20St%2C%20Vergenoeg%2C%20Kimberley%2C%208345!5e0!3m2!1sen!2sza!4v1675690258045!5m2!1sen!2sza" width="160" height="160" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></td>
+                </tr>
+                <tr>
+                   <td style="padding-left: 20vh;"> <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+                    <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+                    
+                    <a href="http://facebook.com/MusicDomeSeries"><ion-icon name="logo-facebook"></ion-icon>
+                        <a href="http://"></a>
+                        <a href="http://t.me/OnlyGoodMusicSeries"><ion-icon name='logo-telegram'></ion-icon> 
+                    </a>
+                   </td>
+                </tr>
+            </table>
+        </footer>
+        
+
+    </body>
+</html>
+    
+    
