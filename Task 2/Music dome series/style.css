@@ -1,0 +1,69 @@
+  @import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
+
+p {
+    background-color: rgb(226, 174, 203, 0.363);
+    color: black;
+    
+}
+
+
+body {
+    background: url(./img/photo_2023-02-05_13-23-44.jpg);
+    object-fit: scale-down;
+
+}
+ul {
+    /*list-style-type: upper-roman;*/
+    list-style: squre inside url()
+}
+
+#shopping {
+    background-color: rgb(56, 51, 51);
+
+}
+
+#shopping {
+    background-color: rgb(53, 35, 35);
+    padding: 8px;
+    margin: 8px;
+}
+.mainContainer {
+    background-color: rgba(95, 80, 88, 0.363) ;
+
+
+}
+
+.iconimg {
+    width: 100px;
+    height: 100px;
+}
+
+.music{
+    font-weight: bolder;
+    font-family: 'Abril Fatface', cursive;
+}
+.pro{
+    font-weight: lighter;
+    font-family: 'Abril Fatface', cursive;
+}
+
+.details {
+    font-weight: lighter;
+    font-family: 'Abril Fatface', cursive;
+}
+
+.skillsList {
+    width: 30%;
+}
+
+.card_con {
+    display: flex;
+
+}
+
+.card {
+    width: 100%;
+    background-color: ;
+    margin-right: 20px;
+    text-align: center;
+}
